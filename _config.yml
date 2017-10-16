@@ -4,12 +4,12 @@ small_title: body
 smallest_title: body
 description: body
 name: body
-report_url: https://google.com
+report_url: /assets/download/body.pdf
 
 
 # GA and GitHub data
 
-repo: https://github.com/davidewarren/report-template/body
+repo: https://github.com/davidewarren/report-template
 
 uswds_path: assets/vendor/uswds
 
