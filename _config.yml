@@ -4,7 +4,7 @@ small_title: body
 smallest_title: body
 description: body
 name: body
-report_url: https://google.com
+report_url: {{ site.url }}/assets/download/body.pdf
 
 
 # GA and GitHub data
